@@ -1,0 +1,6 @@
+ultralytics
+supervision==0.25.1
+inference-gpu
+git+https://github.com/roboflow/sports.git
+opencv-python
+numpy
